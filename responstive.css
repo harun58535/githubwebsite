@@ -1,0 +1,401 @@
+@media only screen and (max-width: 1024px) {
+    .about .about-card{
+        width: 47%;
+    }
+    .about-card .about-content{
+        margin-top: -164px;
+        margin-left: 300px;
+        padding: 48px 33px;
+    }
+    .about-card .about-item h5{
+        margin-top: 70px;
+    }
+    .services-header .services-card .services-item{
+        width: 47%;
+    }
+    .project{
+        padding: 60px 0;
+        
+    }
+    .project-header .project-card .project-item{
+        width: 45%;
+        margin-bottom: 25px;
+    }
+    .testimonial-header .testimonial-card .testimonial-item{
+        width: 47%;
+    }
+    .blog-header .blog-card .row{
+        width: 47%;
+    }
+    
+    .pricing{
+        padding: 60px 0;
+    }
+    .pricing-card .pricing-item{
+        width: 47%;
+        margin-bottom: 20px;
+    }
+    .form-card{
+        background: #f2f2f2;
+        padding: 40px;
+    }
+    .form-section .form-card .form-item .form-group .form-sub{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .hero-header .hero-card .hero-item{
+        width: 100%;
+        margin-top: -190px;
+        text-align: center;
+        position: relative;
+    }
+    .hero-header .hero-card .hero-item img{
+        margin-top: 190px;
+        position: relative;
+        padding-bottom: 20px;
+        width: 85%;
+    }
+    .hero-header .hero-card .hero-item h2{
+        font-size: 67px;
+        line-height: 82px;
+        font-weight: 600;
+    }
+    .about{
+        padding: 60px 0;
+    }
+    .about .about-card{
+        width: 100%;
+    }
+    .about-card .about-item h5{
+        margin-top: 70px;
+    }
+    .about-section .about-card img{
+        margin-top: 60px;
+    }
+    .about-card .funfatc-item h2{
+        font-weight: 500;
+    }
+
+    .services-header .services-card .services-item{
+        width: 47%;
+    }
+    .project{
+        padding: 60px 0;
+        
+    }
+    .project-header .project-card .project-item{
+        width: 45%;
+        margin-bottom: 25px;
+    }
+    .testimonial-header .testimonial-card .testimonial-item{
+        width: 46%;
+    }
+    .blog-header .blog-card .row{
+        width: 46%;
+    }
+    .pricing{
+        padding: 60px 0;
+    }
+    .pricing-card .pricing-item{
+        width: 46%;
+        margin-bottom: 20px;
+    }
+    .form-card{
+        background: #f2f2f2;
+        padding: 40px;
+    }
+    .form .form-card .form-item .form-group .form-sub{
+        width: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width: 767px) {
+    .project-header .project-card .project-item{
+        width: 100%;
+    } 
+    .form-card{
+        background: #f2f2f2;
+        padding: 20px;
+    }
+    .hero-header .hero-card .hero-item{
+        width: 100%;
+        margin-top: -180px;
+        text-align: center;
+        position: relative;
+    }
+    .hero-header .hero-card .hero-item h2{
+        font-size: 57px;
+        line-height: 68px;
+    }
+    .hero-header .hero-card .hero-item h3{
+        line-height: 0;
+        font-size: 18px;
+    }
+    .hero-card .hero-btns a{
+        padding: 12px 25px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .about-card .about-content h3{
+        font-size: 70px;
+        line-height: 57px;
+    }
+    .about-card .about-content p{
+        font-size: 16px;
+    }
+    .about-card .funfatc-item h2{
+        font-weight: 500;
+    }
+   
+    .about .about-card{
+        width: 100%;
+    }
+    .about-card .about-item h5{
+        margin-top: 110px;
+    }
+    .about-card .funfatc-item h2{
+        font-size: 42px;
+    }
+    .about-card .funfatc-item p{
+        font-size: 18px;
+    }
+    .services-header .services-card .services-item{
+        width: 100%;
+    }
+    .services-card .services-item h3{
+        font-size: 20px;
+    }
+    .services .services-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .project{
+        padding: 60px 0;
+        
+    }
+    .project-header .project-heading h3{
+        font-size: 35px;
+        padding: 20px 0;
+    }
+    .testimonial-header .testimonial-card .testimonial-item{
+        width: 100%;
+    }
+    .testimonial-header .testimonial-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .blog-header .blog-card .row{
+        width: 100%;
+    }
+    .blog-header .blog-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .blog-card .row .blog-content h3{
+        font-size: 19px;
+    }
+    .blog-btns .blog-btn a{
+        font-size: 16px;
+        padding: 12px 35px;
+    }
+    .project-btns .project-btn a{
+        font-size: 16px;
+        padding: 12px 35px;
+    }
+    .pricing{
+        padding: 60px 0;
+    }
+    .pricing-card .pricing-item{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .pricing .pricing-heading h3{
+        font-size: 35px;
+        padding: 20px 0;
+    }
+    .form .form-card .form-item .form-group .form-sub{
+        width: 97%;
+    }
+    .form .form-card h2{
+        font-size: 34px;
+    }
+    
+}
+
+@media only screen and (max-width: 576px) {
+    .hero{
+        padding: 50px 0;
+    }
+    .about{
+        padding: 50px 0;
+    }
+    .services{
+        padding: 50px 0;
+    }
+    .project{
+        padding: 50px 0;
+        
+    }
+    .testimonial .testimonial-header{
+        padding: 50px 0;
+    }
+    .blog .blog-header{
+        padding: 50px 0;
+    }
+    .pricing{
+        padding: 50px 0;
+    }
+    .form{
+        padding: 50px 0;
+    }
+    .footer{
+        padding: 50px 0;
+    }
+    .about-card .about-content{
+        right: 0;
+    }
+    .project-header .project-card .project-item{
+        width: 100%;
+    } 
+    .form-card{
+        background: #f2f2f2;
+        padding: 20px;
+    }
+    .hero-header .hero-card .hero-item{
+        width: 100%;
+        margin-top: -180px;
+        text-align: center;
+        position: relative;
+    }
+    .hero-header .hero-card .hero-item h2{
+        font-size: 28px;
+    }
+    .hero-header .hero-card .hero-item h3{
+        line-height: 0;
+        font-size: 18px;
+    }
+    .hero-header .hero-card .hero-item img{
+        width: 80%;
+    }
+    .hero-card .hero-btns a{
+        padding: 12px 25px;
+        font-size: 14px;
+        font-weight: 500;
+    }
+    .about-card .about-content h3{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .about-card .about-content p{
+        font-size: 16px;
+    }
+   
+    .about-card .funfatc-item h2{
+        font-weight: 400;
+    }
+    .about .about-card{
+        width: 100%;
+    }
+    .about-card .about-item h5{
+        margin-top: 110px;
+    }
+    .home .hero-item .hero-card img{
+        margin-top: 167px;
+        margin-left: -225px;
+        position: absolute;
+    }
+    .about-card .funfatc-item h2{
+        font-size: 35px;
+    }
+    .about-card .funfatc-item p{
+        font-size: 17px;
+    }
+
+    .services-header .services-card .services-item{
+        width: 100%;
+    }
+    .services-card .services-item h3{
+        font-size: 20px;
+    }
+    .services .services-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .project{
+        padding: 60px 0;
+        
+    }
+    .project-header .project-heading h3{
+        font-size: 35px;
+        padding: 20px 0;
+    }
+    .testimonial-header .testimonial-card .testimonial-item{
+        width: 100%;
+    }
+    .testimonial-header .testimonial-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .blog-header .blog-card .row{
+        width: 100%;
+    }
+    .blog-header .blog-heading h3{
+        font-size: 40px;
+        padding: 20px 0;
+    }
+    .blog-card .row .blog-content h3{
+        font-size: 19px;
+    }
+    .blog-btns .blog-btn a{
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+    .project-btns .project-btn a{
+        font-size: 16px;
+        padding: 10px 30px;
+    }
+
+
+    .pricing{
+        padding: 60px 0;
+    }
+    .pricing-card .pricing-item{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .pricing .pricing-heading h3{
+        font-size: 35px;
+        padding: 20px 0;
+    }
+    .form .form-card .form-item .form-group .form-sub{
+        width: 97%;
+    }
+    .form.form-card h2{
+        font-size: 34px;
+    }
+
+
+}
+
+/* @media only screen and (min-width: 1318px){
+    .about .about-card img{
+        width: 86%;
+    }
+    .about .about-card
+    {
+        width: 46%;
+    }
+}
+@media only screen and (max-width: 1342px){
+    .about .about-card img{
+        width: 86%;
+    }
+    .about .about-card
+    {
+        width: 46%;
+    }
+} */
